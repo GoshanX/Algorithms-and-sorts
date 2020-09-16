@@ -1,0 +1,8 @@
+C:\Users\1292355\source\repos\Algorithms\Algorithms\bin\Release\Algorithms.exe.config
+C:\Users\1292355\source\repos\Algorithms\Algorithms\bin\Release\Algorithms.exe
+C:\Users\1292355\source\repos\Algorithms\Algorithms\bin\Release\Algorithms.pdb
+C:\Users\1292355\source\repos\Algorithms\Algorithms\obj\Release\Algorithms.csprojAssemblyReference.cache
+C:\Users\1292355\source\repos\Algorithms\Algorithms\obj\Release\Algorithms.exe
+C:\Users\1292355\source\repos\Algorithms\Algorithms\obj\Release\Algorithms.pdb
+C:\Users\1292355\source\repos\Algorithms\Algorithms\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\1292355\source\repos\Algorithms\Algorithms\obj\Release\Algorithms.csproj.CopyComplete
